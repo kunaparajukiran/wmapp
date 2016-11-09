@@ -1,0 +1,22 @@
+{
+  "generator-jhipster": {
+    "baseName": "SpringYoman",
+    "packageName": "com.dms.app",
+    "packageFolder": "com/dms/app",
+    "authenticationType": "xauth",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "no",
+    "useSass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "7a64194803f7bc6650d3f1bf7f087dcc00c66417",
+    "testFrameworks": []
+  }
+}
